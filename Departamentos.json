@@ -1,0 +1,21 @@
+{
+    "Marketing": [],
+    "Comercial": [],
+    "Financeiro": [
+        {
+            "email_address": "Anderson@VSO.Financeiro.com",
+            "password": ",Bl}!N{r@*-!",
+            "nome": "Anderson",
+            "department": "Financeiro"
+        }
+    ],
+    "Development": [
+        {
+            "email_address": "Bernardo@VSO.Development.com",
+            "password": "FJf/QE3Gh@/a",
+            "nome": "Bernardo",
+            "department": "Development"
+        }
+    ],
+    "HumanResources": []
+}
